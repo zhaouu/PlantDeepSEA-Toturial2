@@ -24,13 +24,13 @@ For sequence or position input:
         :width: 70%
         :align: center
 
-For VCF input:
+For BED input:
 
 .. image:: _static/images/pre/r_bed.png
         :width: 70%
         :align: center
 
-For BED input:
+For VCF input:
 
 .. image:: _static/images/pre/r_vcf.png
         :width: 70%
